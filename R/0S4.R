@@ -2,8 +2,6 @@
 #' @import methods
 #' @import cli
 
-setOldClass(Classes = c('cli_ansi_string', 'ansi_string', 'character'))
-
 
 
 #' @title \linkS4class{spice}
@@ -22,7 +20,7 @@ setClass(Class = 'spice', slots = c(
 
 
 
-
+#' @importFrom sousChef.utils sys_call_name
 spice <- \(no_eval = sys_call_name(which = -2), ...) {
   
   no_eval
