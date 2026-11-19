@@ -39,6 +39,8 @@ fenugreek <- \() spice(alias = '\u80e1\u82a6\u5df4')
 
 `Kaempferia galanga` <- \() spice(alias = '\u6c99\u59dc', wiki = 'Kaempferia_galanga')
 
+KGalanga <- `Kaempferia galanga`
+
 garlic <- \() spice(alias = '\u849c\U1f9c4')
 
 ginger <- \() spice(alias = '\u59dc\U1fada')
@@ -84,6 +86,8 @@ sage <- \() spice(alias = '\u9f20\u5c3e\u8349')
 `star anise` <- \() spice(
   alias = '\u516b\u89d2',
   wiki = 'Illicium_verum')
+
+starAnise <- `star anise`
 
 `sunflower oil` <- \() spice(
   alias = '\u8475\u82b1\u7c7d\U1f33b\u6cb9',
