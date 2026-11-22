@@ -15,6 +15,8 @@ cardamom <- \() spice(alias = '\u5c0f\u8c46\u853b')
 
 carrot <- \() spice(alias = '\u80e1\u841d\u535c\U1f955')
 
+`cayenne pepper` <- \() spice(alias = '\u8fa3\u6912\U0001f336', wiki = 'Cayenne_pepper')
+
 cilantro <- \() spice(alias = '\u82ab\u837d', wiki = 'Coriander#Leaves')
 
 cinnamon <- \() spice(alias = '\u8089\u6842')
@@ -52,6 +54,8 @@ ginger <- \() spice(alias = '\u59dc\U1fada')
 `lemon zest` <- \() spice(alias = '\u67e0\u6aac\U0001f34b\u76ae')
 
 marjoram <- \() spice(alias = '\u58a8\u89d2\u5170')
+
+`mustard seed` <- \() spice(alias = '\u82a5\u83dc\u7c7d', wiki = 'Mustard_seed')
 
 nutmeg <- \() spice(alias = '\u8089\u8c46\u853b')
 
