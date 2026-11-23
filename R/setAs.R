@@ -10,3 +10,4 @@ setAs(from = 'character', to = 'spice', def = \(from) {
   eval(call(name = from), envir = ns)
   
 })
+
